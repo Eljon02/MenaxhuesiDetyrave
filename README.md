@@ -1,0 +1,2 @@
+# MenaxhuesiDetyrave
+Projekti Java
